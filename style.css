@@ -1,0 +1,9 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+table>tr,td,th{
+    padding: 3px;
+    border: 1px solid black;
+}
